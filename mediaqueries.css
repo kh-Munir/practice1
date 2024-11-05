@@ -1,0 +1,13 @@
+
+
+@media (max-width: 991px) {
+    .nav_toggle{
+        display: block;
+        margin-right: 20px;
+    }
+
+    .navlinks{
+        display: none;
+    }
+
+}
